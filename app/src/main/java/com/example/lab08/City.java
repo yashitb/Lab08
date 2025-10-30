@@ -27,6 +27,7 @@ public class City {
                 && this.province.equals(cityObj.province);
     }
 
+    //Adding a comment
     @Override
     public int hashCode() {
         return city.hashCode() + province.hashCode();
