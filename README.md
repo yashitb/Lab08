@@ -1,3 +1,3 @@
-Name : Yashit Bamba 
-CCID : yashit
-Student ID : 1817691
+Name : Yashit Bamba \n
+CCID : yashit \n
+Student ID : 1817691 \n
